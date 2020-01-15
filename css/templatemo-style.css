@@ -90,6 +90,7 @@ button:focus { outline: none; }
 .cd-hero-slider .tm-site-name { 
 	font-size: 2em;
 	font-weight: 400;
+	color:black;
 }
 
 .cd-hero-slider { height: 100vh; }
@@ -99,7 +100,7 @@ button:focus { outline: none; }
 .cd-hero-slider li:last-child { background-size: auto; }
 
 .tm-bg-white-translucent {	
-	background-color: rgba(255,255,255,0.75);	
+	background-color: white;	
 }
 
 .tm-bg-white-translucent p { color: black; }
@@ -373,7 +374,7 @@ border-top-color: #f9c922; -webkit-animation: spin 1.5s linear infinite; /* Chro
 
 	.cd-slider-nav a,
 	.navbar-nav .nav-link {
-		background-color: rgba(255,255,255,0.4);
+		background-color:red;
 	}
 
 	.cd-slider-nav .nav-item.selected .nav-link,
