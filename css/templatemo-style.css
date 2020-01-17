@@ -104,6 +104,10 @@ button:focus { outline: none; }
 }
 
 .tm-bg-white-translucent p { color: black; }
+.jorge	{
+	font-style:black;
+		
+	}
 
 .tm-textbox {
 	display: inline-block;
